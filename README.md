@@ -8,6 +8,9 @@ Le traitement des données s'articule autour d'un pipeline ETL classique en 3 é
 
 Architecture et Structure du projet:
 
+Architecture et Structure du projet :
+
+```text
 Sql_Vente_Costco/
 ├── Data/
 │   ├── global_sales/
@@ -35,7 +38,6 @@ Sql_Vente_Costco/
         ├── Marge_brute_par_produit.sql    # Analyse de la rentabilité
         ├── Evolution_ventes_mensuelles.sql# Suivi des tendances (Time Series)
         └── Analyse_ABC_Pareto_80-20.sql   # Loi de Pareto (80% du CA par 20% des produits)
-
 
 Analyses et KPIs
 Le dossier 03_analyses/ contient les requêtes SQL répondant à des problématiques business concrètes :
