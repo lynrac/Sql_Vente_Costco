@@ -43,6 +43,7 @@ Sql_Vente_Costco/
 Analyses et KPIs:
 
 Le dossier 03_analyses/ contient les requêtes SQL répondant à des problématiques business concrètes :
+
 •	Performance globale : Suivi du Chiffre d'Affaires et de son évolution mensuelle.
 •	Performance produit : Top 10 par CA et par volume, calcul de la marge brute.
 •	Analyse stratégique : Classification ABC (Pareto 80/20) pour identifier les produits les plus critiques pour l'entreprise.
